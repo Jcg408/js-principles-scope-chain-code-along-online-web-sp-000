@@ -14,6 +14,4 @@ function overWriteBestCustomer() {
 
 
 
-function leastFavoriteCustomer () {
-  const leastFavoriteCustomer;
 }
